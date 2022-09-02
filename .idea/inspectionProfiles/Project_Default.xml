@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="create_engine" />
+          <option value="shortener_app.database.*" />
+          <option value="get_settings" />
+          <option value="sessionmaker" />
+          <option value="declarative_base" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
